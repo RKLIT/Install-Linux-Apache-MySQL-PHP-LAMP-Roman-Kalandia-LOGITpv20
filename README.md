@@ -51,7 +51,7 @@
 
 ![20](https://github.com/RKLIT/Install-Linux-Apache-MySQL-PHP-LAMP-Roman-Kalandia-LOGITpv20/assets/77961594/ed914d93-41c9-4b1b-8662-c689577eaa6c)
 
-## Testing Database Connection from PHP (Optional)
+## Testing Database Connection to PHP (Optional)
 
 ![21](https://github.com/RKLIT/Install-Linux-Apache-MySQL-PHP-LAMP-Roman-Kalandia-LOGITpv20/assets/77961594/b6d04bc3-4fe3-4320-9279-fdcdff786fba)
 

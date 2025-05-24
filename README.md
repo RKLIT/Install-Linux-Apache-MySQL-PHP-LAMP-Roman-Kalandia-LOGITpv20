@@ -1,13 +1,17 @@
-LAMP stack:
-Linux, Apache, MySQL, PHP install
-Apache install
+#LAMP stack:
+## Stack services:
+
+  Apache, 
+  MySQL, 
+  PHP
+## Apache install
 ![1](https://github.com/RKLIT/Install-Linux-Apache-MySQL-PHP-LAMP-Roman-Kalandia-LOGITpv20/assets/77961594/f232d708-8c5d-43df-b73d-0697d662d014)
 
 ![2](https://github.com/RKLIT/Install-Linux-Apache-MySQL-PHP-LAMP-Roman-Kalandia-LOGITpv20/assets/77961594/625d6bc6-962f-4bf1-b79f-e2b8ac5c9b7c)
 
 ![3](https://github.com/RKLIT/Install-Linux-Apache-MySQL-PHP-LAMP-Roman-Kalandia-LOGITpv20/assets/77961594/150c28cf-f5ae-42c3-ac4f-30621f2709c8)
 
-MySQL install
+##MySQL install
 
 ![4](https://github.com/RKLIT/Install-Linux-Apache-MySQL-PHP-LAMP-Roman-Kalandia-LOGITpv20/assets/77961594/aa6710ce-4501-413e-9c0e-35566a1be662)
 
@@ -15,7 +19,7 @@ MySQL install
 
 ![6](https://github.com/RKLIT/Install-Linux-Apache-MySQL-PHP-LAMP-Roman-Kalandia-LOGITpv20/assets/77961594/cede8f92-2651-455e-859c-9ae0a8ee95f1)
 
-PHP
+##PHP
 
 ![7](https://github.com/RKLIT/Install-Linux-Apache-MySQL-PHP-LAMP-Roman-Kalandia-LOGITpv20/assets/77961594/bc0e5af2-8bdf-40ad-9e5e-1f11a3d77bb1)
 
@@ -37,7 +41,7 @@ PHP
 
 ![16](https://github.com/RKLIT/Install-Linux-Apache-MySQL-PHP-LAMP-Roman-Kalandia-LOGITpv20/assets/77961594/dfa95f8b-3015-4e9f-aa3e-235d7a97ebad)
 
-PHP configuration
+##PHP configuration
 
 ![17](https://github.com/RKLIT/Install-Linux-Apache-MySQL-PHP-LAMP-Roman-Kalandia-LOGITpv20/assets/77961594/af596d8a-089c-4c07-8d90-89f0b1a143b1)
 
@@ -47,7 +51,7 @@ PHP configuration
 
 ![20](https://github.com/RKLIT/Install-Linux-Apache-MySQL-PHP-LAMP-Roman-Kalandia-LOGITpv20/assets/77961594/ed914d93-41c9-4b1b-8662-c689577eaa6c)
 
-Testing Database Connection from PHP (Optional)
+##Testing Database Connection from PHP (Optional)
 
 ![21](https://github.com/RKLIT/Install-Linux-Apache-MySQL-PHP-LAMP-Roman-Kalandia-LOGITpv20/assets/77961594/b6d04bc3-4fe3-4320-9279-fdcdff786fba)
 
